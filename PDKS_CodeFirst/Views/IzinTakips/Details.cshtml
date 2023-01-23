@@ -1,0 +1,67 @@
+﻿@model PDKS_CodeFirst.Entity.IzinTakip
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/_pdks.cshtml";
+}
+
+
+
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.PersonelOzluk.Id, "Personel Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonelOzluk.Adi)  @Html.DisplayFor(model => model.PersonelOzluk.Soyadi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IzinTalepTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IzinTalepTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IzinBaslangıcTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IzinBaslangıcTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IzinBitisTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IzinBitisTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IzinGunSayisi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IzinGunSayisi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IzinTipi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IzinTipi)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Düzenle", "Edit", new { id = Model.Id }, new { @class = "btn btn-secondary" })
+    @Html.ActionLink("Listeye Dön", "Index", "", new { @class = "btn btn-success" })
+</p>

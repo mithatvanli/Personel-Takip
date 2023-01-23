@@ -1,0 +1,131 @@
+﻿@model IEnumerable<PDKS_CodeFirst.Entity.PersonelOzluk>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_pdks.cshtml";
+}
+
+
+<br />
+<br />
+
+<table class="table table-bordered bg-dark  border-light text-center text-light">
+    <tr>
+        <th class="col-4">
+            @Html.DisplayNameFor(model => model.Departman.DepartmanAdi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Adi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Soyadi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TcKimlik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefon)
+        </th>
+        <th class="col-4">
+            @Html.DisplayNameFor(model => model.DogumTarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Unvan)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KurumSicil)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EPosta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MedeniDurum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EvAdresi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Askerlik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IseGiris)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ehliyet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Engelli)
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departman.DepartmanAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Soyadi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TcKimlik)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DogumTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Unvan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KurumSicil)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EPosta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MedeniDurum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EvAdresi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Askerlik)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IseGiris)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ehliyet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Engelli)
+            </td>
+            <td>
+                @Html.ActionLink("Düzenle", "Edit", new { id = item.Id }, new { @class = "btn btn-secondary" })
+
+            </td>
+            <td>
+                @Html.ActionLink("Detaylar", "Details", new { id = item.Id }, new { @class = "btn btn-info" })
+            </td>
+            <td>
+                @Html.ActionLink("Sil", "Delete", new { id = item.Id }, new { @class = "btn btn-danger" })
+            </td>
+
+        </tr>
+    }
+
+</table>
+<br />
+<br />
+<p>
+    @Html.ActionLink("Yeni Kayıt", "Create", "", new { @class = "btn btn-success" })
+</p>

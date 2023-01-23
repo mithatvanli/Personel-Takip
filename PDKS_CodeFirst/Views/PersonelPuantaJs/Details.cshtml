@@ -1,0 +1,58 @@
+﻿@model PDKS_CodeFirst.Entity.PersonelPuantaJ
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/_pdks.cshtml";
+}
+
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.PersonelOzluk.Id, "Personel Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonelOzluk.Adi) @Html.DisplayFor(model => model.PersonelOzluk.Soyadi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CalısmaSaati)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CalısmaSaati)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GirisSaati)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GirisSaati)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CıkısSaati)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CıkısSaati)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mazeret)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mazeret)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Düzenle", "Edit", new { id = Model.Id }, new { @class = "btn btn-secondary" })
+    @Html.ActionLink("Listeye Dön", "Index", "", new { @class = "btn btn-success" })
+</p>

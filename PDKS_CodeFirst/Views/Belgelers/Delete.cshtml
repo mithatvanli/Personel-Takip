@@ -1,0 +1,86 @@
+﻿@model PDKS_CodeFirst.Entity.Belgeler
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/_pdks.cshtml";
+}
+
+
+
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.PersonelOzluk.Id, "Personel Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonelOzluk.Adi)   @Html.DisplayFor(model => model.PersonelOzluk.Soyadi)
+
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BelgeAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BelgeAdi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BelgeYolu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BelgeYolu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BelgeTipi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BelgeTipi)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Kaldır" class="btn btn-danger" id="BtnSil"/>
+            @Html.ActionLink("Listeye Dön", "Index", "", new { @class = "btn btn-success" })
+        </div>
+    }
+</div>
+<script src="~/vendor/jquery/sweetalert.js"></script>
+<link href="~/Scripts/sweetalert/sweetalert2.css" rel="stylesheet" />
+<link href="~/Scripts/sweetalert/sweetalert2.min.css" rel="stylesheet" />
+
+<script src="~/vendor/jquery/jquery-3.3.1.min.js"></script>
+<script src="~/vendor/jquery/jquery-3.3.1.intellisense.js"></script>
+<script type="text/javascript">
+    $("#BtnSil").click(function () {
+            event.preventDefault();
+            Swal.fire({
+                title: "Silmek İstediğinize Emin Misiniz ?",
+                Text: "Sil",
+                icon: 'question',
+                showCancelButton: true,
+                confirmButtonColor: '#2ecc71',
+                confirmButtonText: 'Evet',
+                CancelButtonText: 'Hayır',
+                CancelButtonColor: 'Red'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    $('#deleteForm').submit();
+                }
+            });
+
+        });
+
+</script>

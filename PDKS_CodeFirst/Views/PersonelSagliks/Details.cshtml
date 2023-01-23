@@ -1,0 +1,131 @@
+﻿@model PDKS_CodeFirst.DAL.PersonelSaglik
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/_pdks.cshtml";
+}
+
+
+
+<div>
+ 
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AlerJi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AlerJi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KalpRahatsizligi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KalpRahatsizligi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KasEklem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KasEklem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GorneDurumu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GorneDurumu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsitmeKaybi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsitmeKaybi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BagisiklikGuclugu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BagisiklikGuclugu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KronikHastalik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KronikHastalik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AstimKoa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AstimKoa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SindiriRahasizliklari)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SindiriRahasizliklari)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RuhsalRahatsizlik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RuhsalRahatsizlik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ZihinselHastalik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ZihinselHastalik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KanGrubu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KanGrubu)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.PersonelOzluk.Id, "Personel Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonelOzluk.Adi) @Html.DisplayFor(model => model.PersonelOzluk.Soyadi)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Düzenle", "Edit", new { id = Model.Id }, new { @class = "btn btn-secondary" })
+    @Html.ActionLink("Listeye Dön", "Index", "", new { @class = "btn btn-success" })
+</p>

@@ -1,0 +1,234 @@
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.dll.config
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.pdb
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.exe
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.exe.config
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.rsp
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.exe
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.exe.config
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.rsp
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Console.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Net.Http.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Net.Sockets.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.exe
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.rsp
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Helpers.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Mvc.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Razor.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Deployment.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Razor.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Razor.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Deployment.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Razor.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Helpers.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Mvc.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.CopyComplete
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.dll
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.pdb
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.Migrations.ilkkayit.resources
+C:\Users\turan.erdogan\source\repos\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.GenerateResource.cache
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.dll.config
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.pdb
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.exe
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.exe.config
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.rsp
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.exe
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.exe.config
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.rsp
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Console.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Net.Http.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.exe
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.rsp
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Helpers.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Mvc.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Razor.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Razor.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Helpers.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Mvc.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.CopyComplete
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.dll
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.pdb
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.Migrations.sss.resources
+C:\Users\Mithat\Desktop\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.GenerateResource.cache
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.dll.config
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\PDKS_CodeFirst.pdb
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.exe
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.exe.config
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csc.rsp
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.exe
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.exe.config
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\csi.rsp
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.AppContext.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Console.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Net.Http.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.exe
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.exe.config
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\vbc.rsp
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Helpers.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Mvc.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Razor.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Razor.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Helpers.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\System.Web.Mvc.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.Migrations.sss.resources
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.GenerateResource.cache
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.csproj.CopyComplete
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.dll
+C:\Users\Mithat\Desktop\PROJE DOSYALAR\PDKS_CodeFirst\PDKS_CodeFirst\obj\Debug\PDKS_CodeFirst.pdb

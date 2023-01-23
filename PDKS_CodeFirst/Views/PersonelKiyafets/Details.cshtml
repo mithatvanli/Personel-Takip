@@ -1,0 +1,107 @@
+﻿@model PDKS_CodeFirst.Entity.PersonelKiyafet
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/_pdks.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PersonelKiyafet</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.Departman.Id, "Departman Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departman.DepartmanAdi)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.PersonelOzluk.Id, "Personel Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonelOzluk.Adi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.İstekNedeni)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.İstekNedeni)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Renk)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Renk)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ÜstBedenNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ÜstBedenNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AltBedenNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AltBedenNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KafaBedenNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KafaBedenNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AyakkabıNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AyakkabıNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Boy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Boy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kilo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kilo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Düzenle", "Edit", new { id = Model.Id }, new { @class = "btn btn-secondary" })
+    @Html.ActionLink("Listeye Dön", "Index", "", new { @class = "btn btn-success" })
+</p>

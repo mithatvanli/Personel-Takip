@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+
+    
+
+    <!-- Bootstrap core CSS -->
+   
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="../assets/css/fontawesome.css">
+    <link rel="stylesheet" href="../assets/css/templatemo-seo-dream.css">
+    <link rel="stylesheet" href="../assets/css/animated.css">
+    <link rel="stylesheet" href="../assets/css/owl.css">
+</head>
+<body>
+
+    <!-- ***** Preloader Start ***** -->
+    @*<div id="js-preloader" class="js-preloader">
+            <div class="preloader-inner">
+                <span class="dot"></span>
+                <div class="dots">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>*@
+    <!-- ***** Preloader End ***** -->
+    <header class="header-area header-sticky wow slideInDown bg-secondary" data-wow-duration="0.75s" data-wow-delay="0s">
+        <div class="container text-center" style="font-family:Calibri ;font-size:medium">
+
+            <!-- ***** Logo Start ***** -->                        <!-- ***** Logo End ***** -->                        <!-- ***** Menu Start ***** -->
+            <ul class="nav table-responsive text-center" style="font-family:Calibri ;font-size:medium">
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium">  @Html.ActionLink("Belgeler", "Index", "Belgelers", "", new { @class = "btn " })</li>
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium"> @Html.ActionLink("Departmanlar", "Index", "Departmen", "", new { @class = "btn" })</li>
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium"> @Html.ActionLink("İzinler", "Index", "IzinTakips", "", new { @class = "btn" })</li>
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium"> @Html.ActionLink("Çocuk", "Index", "PersonelCocuks", "", new { @class = "btn" })</li>
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium">@Html.ActionLink("Eğitim ", "Index", "PersonelEgitims", "", new { @class = "btn" })</li>
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium">@Html.ActionLink("Kıyafet", "Index", "PersonelKiyafets", "", new { @class = "btn" })
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium">@Html.ActionLink("Personel Bilgileri", "Index", "PersonelOzluks", "", new { @class = "btn" })</li>
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium">@Html.ActionLink("Puantaj", "Index", "PersonelPuantaJs", "", new { @class = "btn" })</li>
+                <li class="scroll-to-section" style="font-family:Calibri ;font-size:medium">@Html.ActionLink("Sağlık Bilgileri", "Index", "PersonelSagliks", "", new { @class = "btn" })</li>
+                &nbsp;
+                &nbsp;
+                <a href="/Login/LogOut/" class="btn text-dark btn-danger" style="font-family:Calibri;">Çıkış Yap</a>
+            </ul>
+
+
+
+
+        </div>
+    </header>
+    <br />    <br />    <br />    <br />  <br />
+
+    @*<div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">*@
+    <div class="container ">
+        @RenderBody()
+    </div>
+    @*</div>*@
+    <!-- Scripts -->
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/owl-carousel.js"></script>
+    <script src="../assets/js/animation.js"></script>
+    <script src="../assets/js/imagesloaded.js"></script>
+    <script src="../assets/js/custom.js"></script>
+</body>
+</html>

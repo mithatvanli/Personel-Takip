@@ -1,0 +1,77 @@
+﻿@model IEnumerable<PDKS_CodeFirst.Entity.IzinTakip>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_pdks.cshtml";
+}
+
+
+<br />
+<br />
+
+<table class="table table-bordered bg-dark  border-light text-center text-light">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PersonelOzluk.Adi)   @Html.DisplayNameFor(model => model.PersonelOzluk.Soyadi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IzinTalepTarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IzinBaslangıcTarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IzinBitisTarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IzinGunSayisi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IzinTipi)
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.PersonelOzluk.Adi    @item.PersonelOzluk.Soyadi
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IzinTalepTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IzinBaslangıcTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IzinBitisTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IzinGunSayisi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IzinTipi)
+            </td>
+            <td class="col-1">
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-secondary" })
+
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-info" })
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+<br />
+<p>
+    @Html.ActionLink("Yeni Kayıt", "Create", "", new { @class = "btn btn-success" })
+</p>
+

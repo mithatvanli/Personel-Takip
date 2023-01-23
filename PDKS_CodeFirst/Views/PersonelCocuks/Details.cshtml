@@ -1,0 +1,51 @@
+﻿@model PDKS_CodeFirst.Entity.PersonelCocuk
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/_pdks.cshtml";
+}
+
+
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.PersonelOzluk.Id, "Personel Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonelOzluk.Adi)   @Html.DisplayFor(model => model.PersonelOzluk.Soyadi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CocukAdı)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CocukAdı)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CocukDogumTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CocukDogumTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CocukCinsiyet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CocukCinsiyet)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Düzenle", "Edit", new { id = Model.Id }, new { @class = "btn btn-secondary" })
+    @Html.ActionLink("Listeye Dön", "Index", "", new { @class = "btn btn-success" })
+</p>
